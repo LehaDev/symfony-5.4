@@ -1,4 +1,6 @@
-# symfony 5.4 avec php 8
+![PHP](https://img.shields.io/badge/php-8-777BB4.svg?style=for-the-badge&logo=php&logoColor=777BB4)
+![SYMFONY](https://img.shields.io/badge/symfony-4.5-000.svg?style=for-the-badge&logo=symfony&logoColor=fff)
+
 
 Projet en symfony 5.4 avec un docker-compose.yml  
 Qui vous permet d'avoir un docker Symfony, MySQL et PhpMyAdmin  
